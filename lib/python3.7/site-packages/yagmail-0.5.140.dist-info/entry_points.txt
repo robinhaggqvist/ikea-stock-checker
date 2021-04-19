@@ -1,0 +1,3 @@
+[console_scripts]
+yagmail = yagmail.yagmail:main
+
